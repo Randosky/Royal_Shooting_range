@@ -1,0 +1,11 @@
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\bin\Debug\Postrelyski-Pokatyshki.exe.config
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\bin\Debug\Postrelyski-Pokatyshki.exe
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\bin\Debug\Postrelyski-Pokatyshki.pdb
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski-Pokatyshki.csproj.AssemblyReference.cache
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski_Pokatyshki.Properties.Resources.resources
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski-Pokatyshki.csproj.GenerateResource.cache
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski-Pokatyshki.csproj.CoreCompileInputs.cache
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski-Pokatyshki.exe
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski-Pokatyshki.pdb
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski_Pokatyshki.Resource1.resources
+C:\Users\bosso\OneDrive\Рабочий стол\VSC\Postrelyski-Pokatyshki\obj\Debug\Postrelyski_Pokatyshki.Form1.resources
